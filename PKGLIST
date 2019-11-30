@@ -1,0 +1,71 @@
+
+
+	List of packages supported by BiTGApps
+	
+Android Platform: ARM64
+
+Android Q Packages
+    Backup script
+	GoogleCalendarSyncAdapter
+	GoogleContactsSyncAdapter
+	GoogleExtShared
+	SoundPickerPrebuilt
+	CarrierSetup
+	ConfigUpdater
+	GmsCoreSetupPrebuilt
+	GoogleBackupTransport
+	GoogleExtServices
+	GoogleRestore
+	GoogleServicesFramework
+	Phonesky
+	PrebuiltGmsCore
+	SetupWizard
+	Google Maps Support
+	Google Dialer Support
+	Google Mediaeffect Support
+
+Android Pie Packages
+    Backup script
+	FaceLock
+	GoogleCalendarSyncAdapter
+	GoogleContactsSyncAdapter
+	GoogleExtShared
+	MarkupGoogle
+	SoundPickerPrebuilt
+	CarrierSetup
+	ConfigUpdater
+	GmsCoreSetupPrebuilt
+	GoogleBackupTransport
+	GoogleExtServices
+	GoogleRestore
+	GoogleServicesFramework
+	Phonesky
+	PrebuiltGmsCorePi
+	SetupWizard
+	Google Maps Support
+	Google Dialer Support
+	Google Mediaeffect Support
+	
+		-----------------------------------
+
+Android Platform: ARM
+
+Android Q Packages
+    Backup script
+	GoogleCalendarSyncAdapter
+	GoogleContactsSyncAdapter
+	GoogleExtShared
+	SoundPickerPrebuilt
+	CarrierSetup
+	ConfigUpdater
+	GmsCoreSetupPrebuilt
+	GoogleBackupTransport
+	GoogleExtServices
+	GoogleRestore
+	GoogleServicesFramework
+	Phonesky
+	PrebuiltGmsCore
+	SetupWizard
+	Google Maps Support
+	Google Dialer Support
+	Google Mediaeffect Support
