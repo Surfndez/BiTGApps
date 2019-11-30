@@ -14,6 +14,13 @@ A custom gapps package with minimal install. Support custom features such as `Ba
 
 * arm & arm64
 
+## Important links
+
+| [Support Project](https://www.paypal.me/kartikverma443)                                                                           | [![Donate](https://img.shields.io/badge/donate-on%20paypal-orange.svg?style=flat-square)](https://www.paypal.me/kartikverma443)                                                                                  |
+|                                                                                                                                -: | :-                                                                                                                                                                                                               |
+| [Development Forum](https://forum.xda-developers.com/android/software/custom-bitgapps-android-t4012165/post81060589#post81060589) | [![XDA Development](https://img.shields.io/badge/development-on%20xda-blue.svg?style=flat-square)](https://forum.xda-developers.com/android/software/custom-bitgapps-android-t4012165/post81060589#post81060589) |
+| [Support Chat](https://t.me/bitgapps_official)                                                                                    | [![Telegram](https://img.shields.io/badge/chat-on%20telegram-blueviolet.svg?style=flat-square)](https://gitter.im/opengapps/general)                                                                             |
+
 ## License
 
 The BiTGApps Project itself is licensed under the [GPLv3](https://github.com/BiTGApps/BiTGApps/blob/master/LICENSE).
