@@ -5,7 +5,7 @@
 Android Platform: ARM64
 
 Android Q Packages
-    Backup script
+	Backup script
 	GoogleCalendarSyncAdapter
 	GoogleContactsSyncAdapter
 	GoogleExtShared
@@ -25,7 +25,7 @@ Android Q Packages
 	Google Mediaeffect Support
 
 Android Pie Packages
-    Backup script
+	Backup script
 	FaceLock
 	GoogleCalendarSyncAdapter
 	GoogleContactsSyncAdapter
@@ -51,7 +51,7 @@ Android Pie Packages
 Android Platform: ARM
 
 Android Q Packages
-    Backup script
+	Backup script
 	GoogleCalendarSyncAdapter
 	GoogleContactsSyncAdapter
 	GoogleExtShared
