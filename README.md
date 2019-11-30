@@ -16,7 +16,7 @@ A custom gapps package with minimal install. Support custom features such as `Ba
 
 ## License
 
-The BiTGApps Project itself is licensed under the [GPLv3](https://github.com/TheHitMan7/BiTGApps/blob/master/LICENSE).
+The BiTGApps Project itself is licensed under the [GPLv3](https://github.com/BiTGApps/BiTGApps/blob/master/LICENSE).
 
 License terms and the terms used by the BiTGApps installer and pre-built packages under installable zip exception
 
