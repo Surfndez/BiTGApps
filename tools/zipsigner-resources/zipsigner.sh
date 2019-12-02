@@ -1,17 +1,15 @@
 # ZipSigner -- zip signing tool
 
-usage:
-
 # Set defaults
-ZIPFILE=""
-CERTFILE=""
-KEYFILE=""
-UNSIGNEDZIPFILE=""
-SIGNEDZIPFILE=""
+ZIPSIGNER="zipsigner-3.0.jar"
+CERT="testkey.x509.pem"
+KEY="testkey.pk8"
+UNSIGNED="filename.zip"
+SIGNED="filename_signed.zip"
 
 # Sign zip file
-java -jar $ZIPFILE/zipsigner-3.0.jar \
-          $CERTFILE/testkey.x509.pem \
-          $KEYFILE/testkey.pk8 \
-          $UNSIGNEDZIPFILE \
-          $SIGNEDZIPFILE
+java -jar $ZIPSIGNER \
+          $CERT \
+          $KEY \
+          $UNSIGNED \
+          $SIGNED
